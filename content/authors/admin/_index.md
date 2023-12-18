@@ -91,6 +91,14 @@ skills:
         description: ''
         percent: 50
         icon: code-bracket
+      - name: MATPOWER
+        description: ''
+        percent: 70
+        icon: code-bracket
+      - name: SPICE Simulation
+        description: ''
+        percent: 70
+        icon: code-bracket  
       - name: LaTex
         description: ''
         percent: 70
