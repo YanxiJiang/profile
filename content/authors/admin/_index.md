@@ -54,9 +54,11 @@ education:
       GPA: 3.83/4.0
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Research Methods
+      - Power System and Smart Grid Networks
+      - Sustainable Energy and Environment
+      - Nuclear Technology
+
   - area: BEng Electrical Engineering and Automation
     institution: Shenyang Institute of Engineering
     date_start: 2017-09-01
@@ -65,9 +67,10 @@ education:
       GPA: 3.33/4.0
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Electric Circuit
+      - Electrical Machinery
+      - Power System Analysis
+      - Wind & Photovoltaic Engineering
 work:
   - position: Lab Technician (Part-time)
     company_name: Xi'an Jiaotong-Liverpool University of China
@@ -77,9 +80,14 @@ work:
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - 1. In charge of School laboratory daily management;
+      - 2. Work closely with University Health and Safety Office, Campus Management Office, Management Information Technology and System Office, and audit bodies to identify and raise awareness of health and safety hazards in the School laboratories and ensure laboratories to meet the safety standards at all aspects;
+      - 3. Develop and maintain instruction manual and technical/operational standards;
+      - 4. Assist with the planning, procurement, installation and care/maintenance of laboratory equipment;
+      - 5. Prepare laboratory materials for teaching and research;
+      - 6. Organize and maintain stockrooms, and ensure the storage of any laboratory supplies;
+      - 7. Maintain accurate records budget and expense information;
+      - 8. Provide training and supervision for undergraduate and postgraduate students and postdoctoral research staff in the use of equipment.
  
 
 # Skills
