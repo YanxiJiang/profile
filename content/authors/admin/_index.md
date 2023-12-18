@@ -34,11 +34,9 @@ profiles:
     url: https://www.linkedin.com/in/yanxi-jiang-8b7154210/
   - icon: brands/github
     url: https://github.com/YanxiJiang
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-
+  - icon: brands/ORCID
+    url: https://orcid.org/0000-0003-4671-5581
+ 
 education:
   - area: PhD Artificial Intelligence
     institution: Stanford University
