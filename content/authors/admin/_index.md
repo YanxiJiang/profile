@@ -91,10 +91,6 @@ skills:
         description: ''
         percent: 50
         icon: code-bracket
-     - name: LaTex
-        description: ''
-        percent: 75
-        icon: code-bracket
     - name: Python
         description: ''
         percent: 30
