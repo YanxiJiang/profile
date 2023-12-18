@@ -27,9 +27,9 @@ role: BEng, MRes in EEE
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'mailto: yxi.power@gmail.com'
-    label: E-mail Me
+  - #icon: at-symbol
+    #url: 'mailto: yxi.power@gmail.com'
+    #label: E-mail Me
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/yanxi-jiang-8b7154210/
      - icon: brands/github
