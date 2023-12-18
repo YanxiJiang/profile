@@ -34,7 +34,7 @@ profiles:
     url: https://www.linkedin.com/in/yanxi-jiang-8b7154210/
   - icon: brands/github
     url: https://github.com/YanxiJiang
-  - icon: brands/ORCID
+  - icon: brands/ORCiD
     url: https://orcid.org/0000-0003-4671-5581
  
 education:
