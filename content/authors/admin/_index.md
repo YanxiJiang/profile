@@ -95,6 +95,7 @@ skills:
         description: ''
         percent: 70
         icon: code-bracket
+    items:
       - name: SPICE Simulation
         description: ''
         percent: 70
