@@ -105,18 +105,18 @@ skills:
         icon: code-bracket
 
 
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Traveling
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Photography
-        description: ''
-        percent: 60
-        icon: camera
+  #- name: Hobbies
+    #color: '#eeac02'
+    #color_border: '#f0bf23'
+    #items:
+      #- name: Traveling
+       # description: ''
+       # percent: 60
+        #icon: person-simple-walk
+      #- name: Photography
+        #description: ''
+        #percent: 60
+        #icon: camera
 
 
 languages:
@@ -157,4 +157,4 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-Welcome to Yanxi's homepage. Yanxi Jiang was born in Liaoning, Northeast of China. He earned a Bachelor of Engineering degree in Electrical Engineering and Automation (Electrical Power Engineering) from Shenyang Institute of Engineering, Shenyang, Liaoning, China in 2021. In 2023, he received his Master of Research degree in Low Carbon Electrical Power and Energy Technology from the University of Liverpool, Liverpool, Merseyside, England, UK. Yanxi is also an alumni of Xi’an Jiaotong-Liverpool University in Suzhou, Jiangsu, China. 
+Welcome to Yanxi's homepage!
