@@ -95,6 +95,10 @@ skills:
         description: ''
         percent: 70
         icon: code-bracket
+     
+
+
+  - name: Technical Skills
     items:
       - name: SPICE Simulation
         description: ''
@@ -104,9 +108,6 @@ skills:
         description: ''
         percent: 70
         icon: code-bracket
-
-
-  #- name: Hobbies
     #color: '#eeac02'
     #color_border: '#f0bf23'
     #items:
