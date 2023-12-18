@@ -87,42 +87,44 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: MATLAB
+        description: ''
+        percent: 50
+        icon: code-bracket
+       - name: LaTex
         description: ''
         percent: 80
+        icon: code-bracket  
+      - name: Python
+        description: ''
+        percent: 30
         icon: code-bracket
-      - name: Data Science
+      - name: Power System
         description: ''
-        percent: 100
+        percent: 80
         icon: chart-bar
-      - name: SQL
+      - name: SPICE Simulation
         description: ''
-        percent: 40
+        percent: 70
         icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Traveling
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
       - name: Photography
         description: ''
-        percent: 80
+        percent: 60
         icon: camera
 
 languages:
-  - name: English
-    percent: 100
   - name: Chinese
+    percent: 100
+  - name: English
     percent: 75
-  - name: Portuguese
-    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
