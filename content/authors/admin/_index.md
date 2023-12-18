@@ -57,40 +57,30 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BEng Electrical Engineering and Automation
+    institution: Shenyang Institute of Engineering
+    date_start: 2017-09-01
+    date_end: 2021-06-30
     summary: |
-      GPA: 3.4/4.0
+      GPA: 3.33/4.0
       
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Lab Technician (Part-time)
+    company_name: Xi'an Jiaotong-Liverpool University of China
+    company_url: 'www.xjtlu.edu.cn'
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2022-12-12
     date_end: ''
     summary: |2-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+ 
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -166,4 +156,4 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization.
+Welcome to Yanxi's homepage. Yanxi Jiang was born in Liaoning, Northeast of China. He earned a Bachelor of Engineering degree in Electrical Engineering and Automation (Electrical Power Engineering) from Shenyang Institute of Engineering, Shenyang, Liaoning, China in 2021. In 2023, he received his Master of Research degree in Low Carbon Electrical Power and Energy Technology from the University of Liverpool, Liverpool, Merseyside, England, UK. Yanxi is also an alumni of Xi’an Jiaotong-Liverpool University in Suzhou, Jiangsu, China. 
