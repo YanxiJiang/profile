@@ -91,6 +91,11 @@ skills:
         description: ''
         percent: 50
         icon: code-bracket
+    - name: Python
+        description: ''
+        percent: 30
+        icon: code-bracket
+
 
   - name: Hobbies
     color: '#eeac02'
@@ -104,6 +109,10 @@ skills:
         description: ''
         percent: 60
         icon: camera
+      - name: Reading
+        description: ''
+        percent: 40
+        icon: book
 
 languages:
   - name: Chinese
