@@ -34,25 +34,24 @@ profiles:
     url: https://www.linkedin.com/in/yanxi-jiang-8b7154210/
   - icon: brands/github
     url: https://github.com/YanxiJiang
-  - icon: brands/ORCiD
-    url: https://orcid.org/0000-0003-4671-5581
+
  
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  #- area: PhD Artificial Intelligence
+    #institution: Stanford University
+    #date_start: 2016-01-01
+    #date_end: 2020-12-31
+    #summary: |
+      #Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+    #button:
+      #text: 'Read Thesis'
+      #url: 'https://example.com'
+  - area: MRes Low Carbon Electrical Power and Energy Technology
+    institution: University of Livepool
+    date_start: 2021-09-01
+    date_end: 2023-03-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+      GPA: 3.83/4.0
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
