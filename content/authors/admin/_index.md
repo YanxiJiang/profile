@@ -3,7 +3,7 @@
 #title: 吳健雄
 
 # Name pronunciation (optional)
-name_pronunciation: Yanxi Jiang
+#name_pronunciation: Yanxi Jiang
 
 # Full name (for SEO)
 first_name: Yanxi 
@@ -17,12 +17,12 @@ last_name: Jiang
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: BEng, MRes in EEE
 
 # Organizations/Affiliations to display in Biography blox
-organizations:
-  - name: GenCoin
-    url: https://www.example.com/
+#organizations:
+  #- name: GenCoin
+  #  url: https://www.example.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
