@@ -91,6 +91,10 @@ skills:
         description: ''
         percent: 50
         icon: code-bracket
+     - name: LaTex
+        description: ''
+        percent: 75
+        icon: code-bracket
     - name: Python
         description: ''
         percent: 30
@@ -109,10 +113,7 @@ skills:
         description: ''
         percent: 60
         icon: camera
-      - name: Reading
-        description: ''
-        percent: 40
-        icon: book
+
 
 languages:
   - name: Chinese
