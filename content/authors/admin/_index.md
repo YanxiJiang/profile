@@ -91,10 +91,7 @@ skills:
         description: ''
         percent: 50
         icon: code-bracket
-    - name: Python
-        description: ''
-        percent: 30
-        icon: code-bracket
+
 
 
   - name: Hobbies
