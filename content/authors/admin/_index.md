@@ -91,22 +91,7 @@ skills:
         description: ''
         percent: 50
         icon: code-bracket
-       - name: LaTex
-        description: ''
-        percent: 80
-        icon: code-bracket  
-      - name: Python
-        description: ''
-        percent: 30
-        icon: code-bracket
-      - name: Power System
-        description: ''
-        percent: 80
-        icon: chart-bar
-      - name: SPICE Simulation
-        description: ''
-        percent: 70
-        icon: circle-stack
+
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
