@@ -91,7 +91,10 @@ skills:
         description: ''
         percent: 50
         icon: code-bracket
-
+      - name: LaTex
+        description: ''
+        percent: 70
+        icon: code-bracket
 
 
   - name: Hobbies
